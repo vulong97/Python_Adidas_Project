@@ -3,7 +3,7 @@ Adidas AG is a German multinational corporation that designs and manufactures sh
 
 To compete with Nike, a US brand, Adidas management would like to analyze their current sales data in the US and see how they could improve their performance.
 
-This project is part of the CareerFoundry Data Analytics course
+This project is part of the CareerFoundry Data Analytics Program
 
 # Objective
 The objective is to use the available sales data to provide stategic insights on how to maximize the operating profit of Adidas revenue.
