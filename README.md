@@ -8,4 +8,5 @@ The objective is to use the available sales data to provide stategic insights on
 
 # Data Source
 The data has been sourced from an open-source website Kaggle.
+
 https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset?select=Adidas+US+Sales+Datasets.xlsx
