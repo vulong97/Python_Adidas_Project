@@ -7,4 +7,5 @@ To compete with Nike, a US brand, Adidas management would like to analyze their 
 The objective is to use the available sales data to provide stategic insights on how to maximize the operating profit of Adidas revenue.
 
 # Data Source
+The data has been sourced from an open-source website Kaggle.
 https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset?select=Adidas+US+Sales+Datasets.xlsx
